@@ -1,0 +1,21 @@
+h1{
+
+    text-align:center;
+    color:rgb(142,35,107);
+    font-size: 32px;
+}
+
+h2{
+color: rgb(142,35,107);
+}
+
+nav{
+text-align: center;
+}
+
+main{
+    border: 5px solid purple;
+    margin: 100px;
+    padding: 20px;
+
+}
